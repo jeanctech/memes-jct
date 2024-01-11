@@ -1,10 +1,10 @@
 # Vue 3 - Vite
 
-### What is Vue.js 3?
+## What is Vue.js 3?
 
 Vue.js 3 is the latest major version of the Vue.js JavaScript framework. Vue.js is a progressive framework for building User Interfaces - Ui and is widely used in developing Single Page Applications - Spa and creating reusable components.
 
-### Some of the Key Features of Vue.js 3 Include:
+### Some of the Key Features of Vue.js 3 Include
 
 1. **Improved Reactivity:** Vue 3 introduces a more efficient and powerful reactivity system than its predecessor. This means that changes to data are automatically reflected in the UI without requiring manual manipulations of the Dom.
 
@@ -18,10 +18,12 @@ Vue.js 3 is the latest major version of the Vue.js JavaScript framework. Vue.js 
 
 ### Templates - Vue.js 3
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` Sfcs, check out the
+This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the
 
 - [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
-### Recommended Ide Setup
+## Recommended IDE Setup
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+- [VS Code](https://code.visualstudio.com/)
+- [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur)
+- [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
